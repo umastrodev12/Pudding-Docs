@@ -1,7 +1,6 @@
 # ------------------------------------
 # 1. GENERATED ARTIFACTS AND BUILD OUTPUT
-# Files created by the static site generator (HTML output).
-# Adjust folder names if necessary.
+# Files created by the documentation generator (HTML output).
 # ------------------------------------
 
 /dist
@@ -13,7 +12,6 @@
 # General log and cache files
 *.log
 .cache/
-npm-debug.log*
 
 # ------------------------------------
 # 2. ENVIRONMENT AND OS FILES
@@ -24,5 +22,5 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 
-# VS Code - Configuration (Ignored because you only want local settings)
+# VS Code - Configuration (Ignored as per preference)
 .vscode/
