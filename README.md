@@ -1,5 +1,4 @@
-
-# 🍮 Pudding Docs
+<h1 align="center">🍮Pudding Docs🍮</h1>
 
  📝 Uso para usuários criarem Docs(artigos) de seus projetos ou produtos! (Mas devem falar que usaram a Pudding Docs.)
 
